@@ -1,0 +1,1 @@
+{"stockAPIType":"internal","userRegistration":"enabled"}
